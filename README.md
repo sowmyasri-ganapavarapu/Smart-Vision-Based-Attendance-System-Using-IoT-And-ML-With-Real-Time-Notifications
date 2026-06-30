@@ -7,15 +7,15 @@ The project is designed to automate attendance using computer vision and IoT tec
 
 ## 📂 Repository Structure
 
-- **1. Project Report** – Complete documentation of the project.
+ **1. Project Report** – Complete documentation of the project.
 
-- **2. Output Video** – Demonstration of the working project.
+**2. Output Video** – Demonstration of the working project.
 
-- **3. Source Code** – Complete source code and project files.
+**3. Source Code** – Complete source code and project files.
 
-- **4. Presentation** – Final project presentation.
+**4. Presentation** – Final project presentation.
 
-- **5. Research Paper** – Published research paper related to the project.
+**5. Research Paper** – Published research paper related to the project.
 
 ---
 
