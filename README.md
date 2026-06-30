@@ -1,7 +1,7 @@
 # Smart-Vision-Based-Attendance-System-Using-IoT-And-ML-With-Real-Time-Notifications
 This repository contains my Final Year B.Tech Project, **Smart Vision-Based Attendance System Using IoT and Machine Learning with Real-Time Notifications**.
 
-The project is designed to automate attendance using computer vision and IoT technology. It identifies students in real time, records attendance automatically, and sends instant notifications, reducing manual effort while improving accuracy and efficiency.
+The project is designed to automate attendance using computer vision and IoT technology. It identifies students in real time, records attendance automatically and sends instant notifications, reducing manual effort while improving accuracy and efficiency.
 
 ---
 
