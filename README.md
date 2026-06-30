@@ -36,6 +36,23 @@ The project is designed to automate attendance using computer vision and IoT tec
 ## 📸 Output Pictures
 1. Hardware Setup
 <img width="871" height="801" alt="image" src="https://github.com/user-attachments/assets/cf776e2d-ce61-416f-b89d-361e67650c07" />
+2.Software Interfacing
+<img width="985" height="738" alt="image" src="https://github.com/user-attachments/assets/401915da-f443-42c9-8688-51b3f6b5aae3" />
+3.Results
+<img width="1133" height="545" alt="image" src="https://github.com/user-attachments/assets/bfedd659-ebb9-4074-a171-82227f70c7a7" />
+
+---
+
+As I complete my Final Year Project, I am delighted to share the outcome of my learning journey.
+
+**Thank you!**
+---
+
+Contributed by: Sowmya Sri Ganapavarapu  
+Date: May 2026
+
+
+
 
 
 
